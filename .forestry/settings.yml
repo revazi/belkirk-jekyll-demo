@@ -11,12 +11,6 @@ sections:
   create: all
   templates:
   - post
-- type: jekyll-pages
-  label: Pages
-  create: all
-  templates:
-  - landing-page
-  - default
 - type: directory
   path: _people
   label: People
@@ -24,6 +18,12 @@ sections:
   match: "*"
   templates:
   - person
+- type: jekyll-pages
+  label: Pages
+  create: all
+  templates:
+  - landing-page
+  - default
 - type: directory
   path: _projects
   label: Projects
