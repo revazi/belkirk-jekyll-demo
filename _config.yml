@@ -27,12 +27,9 @@ defaults:
     path: ''
     type: projects
   values:
-<<<<<<< HEAD
     assets:
       file: 
-=======
-    assets: 
->>>>>>> a5a3cf01d407e09ebdfa48a881439c9be62cb08f
+      caption:
     Is in stock: 
 - scope:
     path: ''
