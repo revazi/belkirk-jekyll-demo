@@ -29,7 +29,7 @@ defaults:
   values:
     assets:
       file: 
-      caption:
+      caption: 
     Is in stock: 
 - scope:
     path: ''
