@@ -14,7 +14,8 @@ collections:
     output: true
     permalink: "/projects/:path/"
     Images:
-    - Key: 
+    - 
+    - 
   uploads:
     title: Uploads
     output: true
