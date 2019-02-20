@@ -28,9 +28,9 @@ defaults:
     type: projects
   values:
     assets:
-    - file:
-      caption:
-    Is in stock:
+    - file: 
+      caption: 
+    Is in stock: 
 - scope:
     path: ''
     type: posts
