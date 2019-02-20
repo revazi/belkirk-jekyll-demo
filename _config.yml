@@ -28,8 +28,8 @@ defaults:
     path: ''
     type: projects
   values:
-    assets:
-      image: 
+    images:
+    -
     Is in stock: 
 - scope:
     path: ''
