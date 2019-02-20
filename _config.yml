@@ -27,7 +27,7 @@ defaults:
     path: ''
     type: projects
   values:
-    images:
+    images: 
 - scope:
     path: ''
     type: posts
