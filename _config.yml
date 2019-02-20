@@ -27,14 +27,10 @@ defaults:
     path: ''
     type: projects
   values:
-<<<<<<< HEAD
-    Images:
-    - Title:
+    assets:
+    - file:
+      caption:
     Is in stock:
-=======
-    Images: 
-    Is in stock: 
->>>>>>> b12c68f0a8856040658cffd8478bb1514fe03e6a
 - scope:
     path: ''
     type: posts
