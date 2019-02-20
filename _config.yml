@@ -28,14 +28,7 @@ defaults:
     type: projects
   values:
     assets:
-<<<<<<< HEAD
-    - caption:
     Is in stock:
-=======
-    - file: 
-      caption: 
-    Is in stock: 
->>>>>>> 83fb00e49cc0ee6c26e5b2f9da2e0f1ab52646c3
 - scope:
     path: ''
     type: posts
