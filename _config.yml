@@ -27,8 +27,8 @@ defaults:
     path: ''
     type: projects
   values:
-    assets:
-    Is in stock:
+    assets: 
+    Is in stock: 
 - scope:
     path: ''
     type: posts
