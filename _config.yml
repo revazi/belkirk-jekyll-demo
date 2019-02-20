@@ -29,7 +29,7 @@ defaults:
     type: projects
   values:
     images:
-    -
+    - 
     Is in stock: 
 - scope:
     path: ''
