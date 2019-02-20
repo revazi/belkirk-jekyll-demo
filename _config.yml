@@ -28,7 +28,7 @@ defaults:
     type: projects
   values:
     assets:
-      image:
+      image: 
     Is in stock: 
 - scope:
     path: ''
