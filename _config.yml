@@ -25,6 +25,11 @@ defaults:
     layout: page
 - scope:
     path: ''
+    type: projects
+  values:
+    images:
+- scope:
+    path: ''
     type: posts
   values:
     layout: post
